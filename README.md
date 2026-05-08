@@ -7,12 +7,26 @@ It is meant for two related uses:
 - Ask what a graph does, follow data flow, and inspect important nodes.
 - Mark up the graph and save notes for later review.
 
+<img width="836" height="470" alt="image" src="https://github.com/user-attachments/assets/6df526ae-b45b-43ea-beea-ab3a4a3a1cb4" />
+
 ## Features
 
 - Manual notes with brush, arrows, shapes, highlights, and text labels.
 - Ask AI can read the current workflow and place explanations near the relevant nodes.
 - Separate manual and AI annotation layers, so AI explanations can be replaced without deleting manual notes.
 - Annotations are saved in the workflow JSON under `extra.showme_annotations`.
+
+
+
+
+https://github.com/user-attachments/assets/b2a4d46c-3d7e-4160-b4db-d094858147e0
+
+
+
+
+
+
+
 
 ## Installation
 
