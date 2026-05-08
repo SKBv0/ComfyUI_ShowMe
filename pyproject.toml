@@ -1,0 +1,23 @@
+[project]
+name = "comfyui-showme"
+description = "A ComfyUI canvas overlay for notes, labels, highlights, and workflow explanations."
+version = "0.1.0"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+authors = [
+    { name = "SKBv0" },
+]
+keywords = ["comfyui", "annotations", "canvas", "workflow"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Repository = "https://github.com/SKBv0/ComfyUI_ShowMe"
+Issues = "https://github.com/SKBv0/ComfyUI_ShowMe/issues"
+
+[tool.comfy]
+PublisherId = "SKBv0"
+DisplayName = "ShowMe"
