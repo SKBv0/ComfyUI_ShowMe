@@ -19,5 +19,5 @@ Repository = "https://github.com/SKBv0/ComfyUI_ShowMe"
 Issues = "https://github.com/SKBv0/ComfyUI_ShowMe/issues"
 
 [tool.comfy]
-PublisherId = "SKBv0"
+PublisherId = "skb"
 DisplayName = "ShowMe"
